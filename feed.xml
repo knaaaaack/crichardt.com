@@ -1,14 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>crichardt.com</title>
     <link href="https://crichardt.com/feed.xml" rel="self" />
     <link href="https://crichardt.com" />
-    <updated>2022-08-27T18:09:37+02:00</updated>
+    <updated>2024-01-30T01:29:25+01:00</updated>
     <author>
         <name>Clemens Richardt</name>
     </author>
     <id>https://crichardt.com</id>
 
+    <entry>
+        <title>Klimaschutz, der Geld bringt</title>
+        <author>
+            <name>Clemens Richardt</name>
+        </author>
+        <link href="https://crichardt.com/klimaschutz-der-geld-bringt/"/>
+        <id>https://crichardt.com/klimaschutz-der-geld-bringt/</id>
+        <media:content url="https://crichardt.com/media/posts/39/IMGP8141.jpg" medium="image" />
+
+        <updated>2024-01-30T01:29:25+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://crichardt.com/media/posts/39/IMGP8141.jpg" alt="Ein Wasserkanal an einem Wanderweg" />
+                    Wann immer über Klimaschutz diskutiert wird, dauert es nicht lange, bis alle davon reden, wie kostspielig es doch sei, dass man sich Klimaschutz leisten können muss und alles viel zu teuer sei. Mit Blick auf manche Dinge mag das bestimmt auch stimmen, aber es geht auch genau andersherum! (Anzeige, da&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://crichardt.com/media/posts/39/IMGP8141.jpg" class="type:primaryImage" alt="Ein Wasserkanal an einem Wanderweg" /></p>
+                <p class="dropcap">Wann immer über Klimaschutz diskutiert wird, dauert es nicht lange, bis alle davon reden, wie kostspielig es doch sei, dass man sich Klimaschutz leisten können muss und alles viel zu teuer sei. Mit Blick auf manche Dinge mag das bestimmt auch stimmen, aber es geht auch genau andersherum! (Anzeige, da Empfehlungslink im Artikel)</p>
+<p>"Wie?", fragt man sich da sicherlich schnell, da es ja doch verlockend klingt? Ziemlich einfach, nämlich mit dem richtigen Stromanbieter. Und damit will ich nicht auf <a href="https://crichardt.com/die-einfachen-dinge/" target="_blank" rel="noopener noreferrer">die Thematik dieses Blogartikels über einfache Maßnahmen</a> hinaus, sondern auf die relativ neue Möglichkeit von smarten Stromtarifen.</p>
+<h5>Wie funktioniert das?</h5>
+<p>Die Idee an sich ist nicht neu. Manch lesende Person, meist höheren Alters, wird sie vielleicht noch kennen: Die Tarife für Nachtspeicheröfen, die von zu viel Strom im nächtlichen Stromnetz profitierten. Natürlich geht es bei den modernen Tarifen nicht um Nachtspeicheröfen, sondern um Strompreise, die sich dem Börsenstrompreis anpassen. Schaut man auf die tägliche Auslastung des Stromnetzes, sieht man morgens und abends einen großen, tagsüber einen mittleren und nachts sowie am Wochenende meist einen sehr geringen Bedarf. Hier setzen smarte Tarife an.</p>
+<p>Da der Börsenstrompreis durch diesen schwankenden Bedarf einen ähnlichen Verlauf aufweist, gilt es, dieses Potential zu nutzen. Dabei nutzen die modernen Tarife entweder Smartmeter, die den Stromverbrauch genau messen und diesen an den Stromanbieter weiterleiten, oder aber sie nutzen Funksensoren, die auf digitale Stromzähler aufgesetzt werden können und ein Auslesen der Daten ermöglichen. Dadurch wird es für Endnutzende einfach, den Stromverbrauch gleichzeitig kosten- und klimafreundlich zu gestalten. So können größere Verbraucher, wie Waschmaschine, Trockner, Spülmaschine, und gegebenenfalls auch ein Elektroauto oder eine Wärmepumpe dann angeschaltet werden, wenn der Strom besonders günstig ist. </p>
+<p>Besonders bei Elektroautos und Wärmepumpen lohnt sich dies, da hier deutlich höhere Mengen Strom gebraucht werden und die Last flexibel über die Nacht oder den Tag verteilt werden kann, je nach Voraussetzungen am Strommarkt. Einige Anbieter, beispielsweise <a href="https://invite.tibber.com/tsu1hin2" target="_blank" rel="noopener noreferrer">Tibber</a>, der auch bei uns im Einsatz ist, ermöglichen dies sogar komplett automatisiert. Auch Solaranlagen und Batteriespeicher können, je nach Hersteller, eingebunden werden. Die App findet dann komplett automatisch den besten Zeitpunkt bzw. Zeitplan, um beispielsweise das Auto zu laden. Wir verwenden die App auch, um den passenden Zeitpunkt für Spülmaschine und Co. zu finden.</p>
+<h5>Wo ist da der Klimaschutz?</h5>
+<p>Durch die Verschiebung der Last von den intensiven Morgen- und Abendstunden in die Nacht und die Mittagszeit werden die Lastspitzen geglättet. Dadurch wird verhindert bzw. vermindert, dass zusätzlich zum verfügbaren Ökostrom noch weitere Kohle-, Öl-, und Gaskraftwerke einspringen müssen. Da Windkrafträder oft auch nachts große Mengen Strom erzeugen, ist hier meist hgenug erneuerbare, saubere Energie verfügbar.</p>
+<p>Die meisten Anbieter, darunter auch <a href="https://invite.tibber.com/tsu1hin2" target="_blank" rel="noopener noreferrer">Tibber </a>und der Konkurrent O-Strom, bieten ausschließlich Ökostrom an. Außerdem leiten sie sowohl den Börsenstrompreis, als auch die anfallenden Gebühren ohne Aufschlag weiter und berechnen nur einen monatlichen Grundbetrag, bei Tibber sind dies zur Zeit 4€. Es ist übrigens auch möglich, Tibber ohne eine automatisierte Ablesung des Zählers zu nutzen, falls dies nicht möglich ist. Allerdings zahlt man dann den Durchschnittspreis innerhalb des Monats.</p>
+<h5>Unterstützung und Erfahrungen</h5>
+<p>Wer diesen Blog, der auf blinkende und nervende Werbung verzichtet, unterstützen möchte und sowieso noch keinen Ökostromanbieter nutzt oder vor einem Wechsel steht, kann gerne folgenden Link nutzen um sich Tibber genauer anzusehen (nicht vom Namen verwirren lassen, der Stromvertrag läuft auf den Haushalt): <a href="https://invite.tibber.com/tsu1hin2" target="_blank" rel="noopener noreferrer">https://invite.tibber.com/tsu1hin2</a></p>
+<p>Als Dank spendiert Tibber 50€ für uns beide im eigenen Shop, wo man neben Smart-Home-Komponenten auch Wallboxen etc. bekommt. Wir sind bisher ziemlich begeistert, zumal unsere Alternative vor dem Wechsel bei 52ct/kwh lag. Da macht das Laden des Autos mit 24-30ct/kwh doch gleich deutlich mehr Freude. Natürlich kann der Strompreis, besonders zu den Stoßzeiten, auch mal höher liegen, das Gegenteil ist aber auch möglich. So lag unser höchster Preis kurzzeitig mal bei ca. 70ct/kwh, während der niedrigste bei -60ct/kwh lag und wir noch Geld für das Verbrauchen von Strom bekommen haben.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>NIMBY</title>
         <author>
@@ -16,18 +50,20 @@
         </author>
         <link href="https://crichardt.com/nimby/"/>
         <id>https://crichardt.com/nimby/</id>
+        <media:content url="https://crichardt.com/media/posts/34/IMG_3231-crichardt.com.jpg" medium="image" />
             <category term="Ethical Business"/>
+            <category term="Basics"/>
 
-        <updated>2022-08-27T18:09:37+02:00</updated>
+        <updated>2024-01-30T00:44:16+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://crichardt.com/media/posts/34/IMG_3231-crichardt.com.jpg" alt="" />
+                        <img src="https://crichardt.com/media/posts/34/IMG_3231-crichardt.com.jpg" alt="Eine Stromtrasse, im Hintergrund Windräder" />
                     So wohlklingend dieses Akronym auch ist, so verheerend sind doch seine Auswirkungen auf den Wechsel hin zu erneuerbaren Energien und auch anderen, meist damit zusammenhängenden Themenbereichen. Wofür steht also NIMBY? NOT IN MY BACKYARD Auf deutsch: Nicht in meinem Hinterhof. Somit steht das Akronym für eine Abwehrhaltung gegenüber einem Projekt&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://crichardt.com/media/posts/34/IMG_3231-crichardt.com.jpg" alt="" />
+                    <p><img src="https://crichardt.com/media/posts/34/IMG_3231-crichardt.com.jpg" class="type:primaryImage" alt="Eine Stromtrasse, im Hintergrund Windräder" /></p>
                 <p class="dropcap">So wohlklingend dieses Akronym auch ist, so verheerend sind doch seine Auswirkungen auf den Wechsel hin zu erneuerbaren Energien und auch anderen, meist damit zusammenhängenden Themenbereichen. Wofür steht also NIMBY?</p>
 <blockquote>
 <p>NOT IN MY BACKYARD</p>
@@ -50,10 +86,11 @@
         </author>
         <link href="https://crichardt.com/print-it-baby/"/>
         <id>https://crichardt.com/print-it-baby/</id>
+        <media:content url="https://crichardt.com/media/posts/35/IMGP8174.jpg" medium="image" />
             <category term="Fotografie"/>
             <category term="DSLR"/>
 
-        <updated>2021-11-14T11:42:10+01:00</updated>
+        <updated>2024-01-30T00:43:48+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://crichardt.com/media/posts/35/IMGP8174.jpg" alt="Long Exposure of a Waterfall" />
@@ -62,7 +99,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://crichardt.com/media/posts/35/IMGP8174.jpg" alt="Long Exposure of a Waterfall" />
+                    <p><img src="https://crichardt.com/media/posts/35/IMGP8174.jpg" class="type:primaryImage" alt="Long Exposure of a Waterfall" /></p>
                 <p>(Affiliate, Anzeige, Werbung oder sowas)</p>
 <p class="dropcap">Ganz ehrlich: Drucker sind absolute Arschlöcher! Mit denen will ich nichts, aber auch garnichts zu tun haben. Jeder kennt es: Dieser Haufen Schrott kann nicht mal mehr Schwarz-Weiß drucken, wenn Cyan oder Magenta fehlt - was soll das? Aber den Rest dieses Wutanfalls erspare ich euch, denn den habt ihr sicher selbst schon oft genug gehabt. Heute soll es um etwas anders gehen.</p>
 <h5>Drucker, Fotografie &amp; Nachhaltigkeit</h5>
@@ -87,6 +124,7 @@
         </author>
         <link href="https://crichardt.com/der-zweck-entscheidet-die-mittel/"/>
         <id>https://crichardt.com/der-zweck-entscheidet-die-mittel/</id>
+        <media:content url="https://crichardt.com/media/posts/33/IMGP3848.jpg" medium="image" />
             <category term="Fotografie"/>
             <category term="DSLR"/>
 
@@ -99,7 +137,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://crichardt.com/media/posts/33/IMGP3848.jpg" alt="Tree in the rising sun" />
+                    <p><img src="https://crichardt.com/media/posts/33/IMGP3848.jpg" class="type:primaryImage" alt="Tree in the rising sun" /></p>
                 <p class="dropcap">Der Fortschritt in der Fotografie ist gewaltig. Noch vor einigen Jahrzehnten war es mit erheblichem Aufwand verbunden, Fotos zu machen. Heutzutage hat jeder eine Kamera stets zur Hand, die eine relativ vernünftige Qualität mitbringt, eingebaut in jedem Smartphone. Oft wird der Branche der "traditionellen" Kamerahersteller daher ein baldiger Tod prognostiziert. Allerdings kann ich dieser Prognose nur teilweise zustimmen.</p>
 <h5>Rückgang des Marktes</h5>
 <p>Klar ersichtlich ist, dass <a href="https://www.photoscala.de/2019/02/11/quartalszahlen-von-sony-nikon-canon-und-olympus-nur-einer-kann-gewinnen/" target="_blank" rel="noopener noreferrer">der Umsatz der meisten Kamerahersteller rückläufig</a> ist. Besonders bei den Kompaktkameras hat sich der Markt mehr oder weniger in Luft aufgelöst. Kleinere Hersteller wie beispielsweise Pentax trifft dies durchaus hart, einige sind bereits fusioniert, arbeiten zusammen oder sind, wie im Fall von Olympus, verkauft worden. </p>
@@ -124,9 +162,10 @@
         </author>
         <link href="https://crichardt.com/die-einfachen-dinge/"/>
         <id>https://crichardt.com/die-einfachen-dinge/</id>
+        <media:content url="https://crichardt.com/media/posts/29/IMGP3128.jpg" medium="image" />
             <category term="Ethical Business"/>
 
-        <updated>2021-11-14T11:49:48+01:00</updated>
+        <updated>2022-09-05T01:21:10+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://crichardt.com/media/posts/29/IMGP3128.jpg" alt="Trees in Jasper National Park" />
@@ -135,7 +174,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://crichardt.com/media/posts/29/IMGP3128.jpg" alt="Trees in Jasper National Park" />
+                    <p><img src="https://crichardt.com/media/posts/29/IMGP3128.jpg" class="type:primaryImage" alt="Trees in Jasper National Park" /></p>
                 <p class="dropcap">Nachhaltigkeit hat viele Facetten. Bei einigen Dingen, wie beispielsweise der Umstellung von Industrieprozessen auf erneuerbare Energiequellen, führt nahezu kein Weg an großen Projekten vorbei. Doch ich möchte aufzeigen, dass es sowohl im privaten als auch im geschäftlichen Umfeld Möglichkeiten gibt, ein Unternehmen oder das eigene Leben nachhaltiger und sozialer zu gestalten, ohne dabei viel Aufwand betreiben zu müssen. Die kleineren Möglichkeiten, die ich in diesem Artikel aufzeigen werde, sollten allerdings nur als Ergänzung zu größeren Veränderungen genutzt werden. Einige davon können auch von dir als Mitarbeiter:in umgesetzt werden und bei manchen musst du vielleicht auch einfach mal ein Wort mit deinem Vorgesetzten reden.</p>
 <h5>Möglichkeit 1: Stromversorgung</h5>
 <p>Obwohl es im privaten Bereich inzwischen immer mehr verbreitet ist, machen sich nur wenige Unternehmen Gedanken, wo ihr Strom herkommt und wie er produziert wird. Dabei ist hier das Wirkungspotenzial deutlich höher, da der Stromverbrauch von Unternehmen oft deutlich höher liegt als der von privaten Haushalten. Schaut man sich Gewerbegebiete auf Satellitenbildern an, sieht man zwar schon einen relativ hohen Anteil an Dächern mit Solaranlagen, allerdings reicht der so produzierte Strom vom Dach gerade bei Industriestandorten mit großem Energiebedarf definitiv nicht aus. </p>
@@ -144,9 +183,9 @@
 <h5>Möglichkeit 2: Suchmaschinen </h5>
 <p>In vielen Unternehmen werden die Arbeitsplätze der Mitarbeiter vorkonfiguriert, oder es gibt bestimmte Empfehlungen oder Richtlinien bezüglich der Software. Wie auch immer das Thema gehandhabt wird: Meistens landet Google als Standardsuchmaschine auf den Geräten. Dabei gibt es auf diesem Feld eine Menge Möglichkeiten, Gutes zu bewirken: </p>
 <h6>Ecosia</h6>
-<p><a href="ecosia.org">Ecosia</a> ist eine Suchmaschine, die sich komplett dem Thema Nachhaltigkeit und Fairness verschrieben hat. Mit dem Geld, das durch die bei Suchmaschinen übliche Werbung eingenommen wird, werden Baumpflanzprojekte finanziert, die neben den ökologischen Vorteilen auch soziale Aspekte beinhalten. Denn für das Pflanzen der Bäume werden Arbeitskräfte benötigt, gleichzeitig liefern die Bäume teilweise Erzeugnisse, die weiterverarbeitet werden können. Dementsprechend wird also die Wirtschaft in den Anbaugebieten gefördert. Die Einnahmen und Ausgaben des Unternehmens werden übrigens monatlich transparent veröffentlicht.</p>
+<p><a href="https://www.ecosia.org/">Ecosia</a> ist eine Suchmaschine, die sich komplett dem Thema Nachhaltigkeit und Fairness verschrieben hat. Mit dem Geld, das durch die bei Suchmaschinen übliche Werbung eingenommen wird, werden Baumpflanzprojekte finanziert, die neben den ökologischen Vorteilen auch soziale Aspekte beinhalten. Denn für das Pflanzen der Bäume werden Arbeitskräfte benötigt, gleichzeitig liefern die Bäume teilweise Erzeugnisse, die weiterverarbeitet werden können. Dementsprechend wird also die Wirtschaft in den Anbaugebieten gefördert. Die Einnahmen und Ausgaben des Unternehmens werden übrigens monatlich transparent veröffentlicht.</p>
 <h6>Gexsi</h6>
-<p><a href="Gexsi.com">Gexsi</a> funktioniert auf ähnliche Art und Weise wie Ecosia, allerdings wird das Geld nicht (nur) in Baumpflanzprojekte gesteckt, sondern es werden verschiedene Projekte gefördert oder durch Investments unterstützt, die sich mit ihrer Wirkung an den 17 Nachhaltigkeitszielen der UN orientieren. Auch hier liegt ein starker Fokus auf der Transparenz.</p>
+<p><a href="https://gexsi.com/">Gexsi</a> funktioniert auf ähnliche Art und Weise wie Ecosia, allerdings wird das Geld nicht (nur) in Baumpflanzprojekte gesteckt, sondern es werden verschiedene Projekte gefördert oder durch Investments unterstützt, die sich mit ihrer Wirkung an den 17 Nachhaltigkeitszielen der UN orientieren. Auch hier liegt ein starker Fokus auf der Transparenz.</p>
 <h5> Möglichkeit 3: Kompensation </h5>
 <p>Uns allen ist klar, dass die CO2 Kompensation nicht die finale Lösung sein kann. Doch sie kann ein einfacher und schneller Weg sein, das Bewusstsein für die Auswirkungen auf die Umwelt und das Klima zu erweitern, auch oder besonders aus monetärer Sicht. Natürlich können die meisten Unternehmen nicht von jetzt auf gleich alle Emissionen kompensieren. Doch nach und nach kann eine Kompensation für die verschiedenen Bereiche (z.B. Geschäftsreisen, Energie/Wärme, etc.) eingeführt werden. Im nächsten Schritt entsteht das natürliche, marktwirtschaftliche reduzieren dieser Kosten, indem sich das Unternehmen Gedanken macht, wie es seine Emissionen, und damit die Kompensation, senken kann. Genauere Details findet Ihr auch in meinem <a href="https://crichardt.com/klimakompensation-der-moderne-ablassbrief/" target="_blank" rel="noopener noreferrer">Post zur Kompensation.</a></p>
 <h5> Möglichkeit 4: Energieleitlinie</h5>
@@ -169,6 +208,7 @@
         </author>
         <link href="https://crichardt.com/mut-offenheit-und-wahrhaftigkeit/"/>
         <id>https://crichardt.com/mut-offenheit-und-wahrhaftigkeit/</id>
+        <media:content url="https://crichardt.com/media/posts/31/Sono-Motors-Sion.jpg" medium="image" />
             <category term="Ethical Business"/>
 
         <updated>2020-02-24T20:35:03+01:00</updated>
@@ -180,7 +220,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://crichardt.com/media/posts/31/Sono-Motors-Sion.jpg" alt="Sono Motors Sion" />
+                    <p><img src="https://crichardt.com/media/posts/31/Sono-Motors-Sion.jpg" class="type:primaryImage" alt="Sono Motors Sion" /></p>
                 <p class="dropcap">Deutschland ist ein Autoland. Die Automobilbranche zeigt sich in unserer Gesellschaft von verschiedenen Seiten. Sei es, weil Sie eine der größten Branchen in Deutschland ist, weil Autos für viele ein Statussymbol darstellen oder weil Deutschland für seine "German Autobahn" weltweit bekannt ist. </p>
 <p>Auch wenn diese Einleitung auf Anhieb nicht zum Titel des Artikels passt, möchte ich Mut, Offenheit und Wahrhaftigkeit am Beispiel eines Münchner Startups mit dem Begriff "Ethical Business" in Verbindung bringen. </p>
 <h5>Sono Motors</h5>
@@ -208,7 +248,7 @@
 <h5>Offenheit</h5>
 <p>Für ein Unternehmen dieser Größe ist es ungewöhnlich, sich über ein Crowdfunding zu finanzieren. Doch genauso wie das Unternehmen damit neue Wege geht, sollten auch wir offen sein für neue Ideen. Dazu zählt die E-Mobilität an sich, aber auch die Funktionen zum Teilen des Fahrzeugs und andere Innovationen wie die integrierten Solarzellen. Der Mensch mag üblicherweise keine Veränderung. Doch genau diese Veränderung ist aktuell notwendig. Und meist erkennen wir später: Es ist gut, dass sich etwas verändert hat. Denn genauso ging es den Leuten damals, als zum ersten Mal ein Fahrzeug ohne Pferd fuhr. Die Geburt des Autos.</p>
 <p>Disclaimer: Dieser Artikel wurde in keiner Weise von Sono Motors bezahlt und beinhaltet die Ansicht des Autors.</p>
-<figure class="post__image--full"><img loading="lazy"  src="https://crichardt.com/media/posts/31/Sono-Motors-Sion-Powersharing.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://crichardt.com/media/posts/31/responsive/Sono-Motors-Sion-Powersharing-xs.jpg 300w ,https://crichardt.com/media/posts/31/responsive/Sono-Motors-Sion-Powersharing-sm.jpg 480w ,https://crichardt.com/media/posts/31/responsive/Sono-Motors-Sion-Powersharing-md.jpg 749w ,https://crichardt.com/media/posts/31/responsive/Sono-Motors-Sion-Powersharing-xl.jpg 1200w"  alt="Somo Motors Sion Powersharing" width="2560" height="1440"></figure>
+<figure class="post__image--full"><img loading="lazy"  src="https://crichardt.com/media/posts/31/Sono-Motors-Sion-Powersharing.jpg" alt="Somo Motors Sion Powersharing" width="2560" height="1440" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://crichardt.com/media/posts/31/responsive/Sono-Motors-Sion-Powersharing-xs.jpg 300w ,https://crichardt.com/media/posts/31/responsive/Sono-Motors-Sion-Powersharing-sm.jpg 480w ,https://crichardt.com/media/posts/31/responsive/Sono-Motors-Sion-Powersharing-md.jpg 749w ,https://crichardt.com/media/posts/31/responsive/Sono-Motors-Sion-Powersharing-xl.jpg 1200w"></figure>
             ]]>
         </content>
     </entry>
@@ -219,9 +259,10 @@
         </author>
         <link href="https://crichardt.com/bankraub-for-good/"/>
         <id>https://crichardt.com/bankraub-for-good/</id>
+        <media:content url="https://crichardt.com/media/posts/30/TomorrowBank-BankraubforGood-InstagramPosts2-1024x640-32.jpg" medium="image" />
             <category term="Ethical Business"/>
 
-        <updated>2019-11-04T21:29:52+01:00</updated>
+        <updated>2023-10-04T11:12:31+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://crichardt.com/media/posts/30/TomorrowBank-BankraubforGood-InstagramPosts2-1024x640-32.jpg" alt="Banking for Good" />
@@ -230,7 +271,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://crichardt.com/media/posts/30/TomorrowBank-BankraubforGood-InstagramPosts2-1024x640-32.jpg" alt="Banking for Good" />
+                    <p><img src="https://crichardt.com/media/posts/30/TomorrowBank-BankraubforGood-InstagramPosts2-1024x640-32.jpg" class="type:primaryImage" alt="Banking for Good" /></p>
                 <p class="dropcap"> </p>
 <p class="dropcap">Du hoffst, irgendwann ist die Welt bei nachhaltiger Mobilität, Energie und Ernährung angekommen? Du wünschst dir, dass Unternehmen nachhaltig handeln und verantwortungsvoll mit den Menschen und den Ressourcen auf dieser Welt umgehen? Das sind alles Ziele, mit denen du schon lange nicht mehr alleine bist. </p>
 <blockquote>
@@ -242,8 +283,7 @@
 <p>Ganz genau. Der Titel hat es vielleicht schon verraten, es geht um Banking. Jeder hat irgendwo ein Bankkonto, wo der Lohn eingeht etc. Doch was machen die Banken eigentlich mit unserem Geld?</p>
 <p>Die Antwort ist komplex, wie viele Dinge in der Finanzwelt. Doch bei vielen Banken steht fest, dass sie dein Geld zur Finanzierung von Unternehmen nutzen, die z.B. Waffen herstellen, fossile Rohstoffe wie Kohle, Öl und Gas abbauen oder gesundheitsschädliche Praktiken sowie Kinderarbeit einsetzen. Dein Geld finanziert also in vielen Fällen den Klimawandel, Krieg, Menschenrechtsverletzungen und Umweltprobleme. Es handelt sich leider auch nicht um die kleinen Banken, sondern um die (noch) großen Player wie die Deutsche Bank oder die Commerzbank. </p>
 <p>Ganz in diesem Sinne hat das Team von Tomorrow zu einem <a href="https://www.bankraubforgood.de/" title="bankraub for good" target="_blank" rel="noopener noreferrer">BANKRAUB FOR GOOD </a>aufgerufen. Ein legaler, kollektiver Bankraub für eine bessere Welt. Ich selbst habe mir vor ein paar Monaten ein Konto bei Tomorrow eröffnet. Ich bin dankbar für diese Aktion, denn Sie zeigt erneut, dass es noch viele Dinge gibt, die nachhaltiger gestaltet werden können. Wenn du dir nicht vorstellen kannst, bei einer reinen Smartphone-Bank ein Konto zu erstellen, schaue dich mal bei einer der wenigen anderen Banken um, die verantwortungsvoll mit deinem Geld umgehen, beispielsweise bei der GLS Bank, der Triodos Bank und der Umweltbank, um nur mal ein paar zu nennen.</p>
-<p>Jede dieser Banken hat einen etwas anderen Fokus, bei Tomorrow sind es zum Beispiel (ähnlich wie bei <a href="https://www.ecosia.org/" title="ecosia">Ecosia</a>) der Fokus auf Bäume. Dementsprechend schützt Tomorrow auch 100 Bäume in einem Projekt in Brasilien (ganz genau, das Land wo es nach wie vor massive, oft illegale Brandrodungen gibt), wenn Ihre den <a href="https://tomorrow.one/?invite_code=pDR2NRmu" title="Invite Code Tomorrow" target="_blank" rel="noopener noreferrer">Code pDR2NRmu</a> bei eurer Kontoeröffnung angebt. (Ja, ich bekomme nach 3 erfolgreichen Eröffnungen im Rahmen des für alle zugänglichen Freunde-werben-Freunde Programms einen Sweater, daher handelt es sich um WERBUNG.)</p>
-<p>Also auf gehts, investiere 15-20 Minuten in ein neues Konto und bringe nach und nach deine Finanzen ins Reine! </p>
+<p>Also auf geht's, investiere 15-20 Minuten in ein neues Konto und bringe nach und nach deine Finanzen ins Reine! </p>
             ]]>
         </content>
     </entry>
@@ -254,6 +294,7 @@
         </author>
         <link href="https://crichardt.com/schau-in-die-vergangenheit-und-du-siehst-die-zukunft/"/>
         <id>https://crichardt.com/schau-in-die-vergangenheit-und-du-siehst-die-zukunft/</id>
+        <media:content url="https://crichardt.com/media/posts/21/IMGP0646.jpg" medium="image" />
             <category term="Fotografie"/>
             <category term="DSLR"/>
 
@@ -266,20 +307,20 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://crichardt.com/media/posts/21/IMGP0646.jpg" alt="CR Black and White" />
+                    <p><img src="https://crichardt.com/media/posts/21/IMGP0646.jpg" class="type:primaryImage" alt="CR Black and White" /></p>
                 <p class="dropcap">Obwohl ich normalerweise nichts von "Das haben wir schon immer so gemacht" halte, möchte ich euch heute doch mal ein Thema mit Bezug zur Vergangenheit näher bringen. Denn jeder Fotograf, egal ob als Hobby oder professionell, hat mit der Zeit mal das Problem, keine Ideen zu haben und Inspiration zu suchen. Also egal ob Ihr aktuell genau in dieser Falle steckt, oder es vielleicht noch vor euch habt. Hier kommt ein kleiner Tipp, der zumindest kurzfristig Abhilfe schaffen kann.</p>
 <h5>Gruß aus der Vergangenheit</h5>
 <p>Das folgende Bild ist im Januar 2016 entstanden. Aus welchen Gründen auch immer habe ich mit dem Smartphone dieses Foto gemacht. Man sieht eine Hängelampe von unten. Ob es die plötzliche künstlerische Ader war?</p>
-<figure class="post__image--center"><img loading="lazy"  src="https://crichardt.com/media/posts/21/IMG_0114.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://crichardt.com/media/posts/21/responsive/IMG_0114-xs.jpg 300w ,https://crichardt.com/media/posts/21/responsive/IMG_0114-sm.jpg 480w ,https://crichardt.com/media/posts/21/responsive/IMG_0114-md.jpg 749w ,https://crichardt.com/media/posts/21/responsive/IMG_0114-xl.jpg 1200w"  alt="Experiment mit der Belichtung" width="959" height="539"></figure>
+<figure class="post__image--center"><img loading="lazy"  src="https://crichardt.com/media/posts/21/IMG_0114.jpg" alt="Experiment mit der Belichtung" width="959" height="539" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://crichardt.com/media/posts/21/responsive/IMG_0114-xs.jpg 300w ,https://crichardt.com/media/posts/21/responsive/IMG_0114-sm.jpg 480w ,https://crichardt.com/media/posts/21/responsive/IMG_0114-md.jpg 749w ,https://crichardt.com/media/posts/21/responsive/IMG_0114-xl.jpg 1200w"></figure>
 <p>Wie auch immer. Auf jeden Fall findet man hier interessante, vielleicht nicht mal gewollte Ansätze, aus denen man kreative Bildideen entwickeln kann. Hier zum Beispiel das Arbeiten mit der Belichtung. Statt einer Zimmerdecke (die auf einem Bild davor noch klar und deutlich zu sehen ist) ist hier nur noch schwarzer Hintergrund und das Objekt ist isoliert.</p>
 <p>Natürlich muss der Effekt nicht 1 zu 1 so umgesetzt werden. Aber die Inspiration ist da. Und daraus kann beispielsweise so etwas entstehen:</p>
-<figure class="post__image--left"><img loading="lazy"  src="https://crichardt.com/media/posts/21/IMGP1435.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://crichardt.com/media/posts/21/responsive/IMGP1435-xs.jpg 300w ,https://crichardt.com/media/posts/21/responsive/IMGP1435-sm.jpg 480w ,https://crichardt.com/media/posts/21/responsive/IMGP1435-md.jpg 749w ,https://crichardt.com/media/posts/21/responsive/IMGP1435-xl.jpg 1200w"  alt="Yellow Flower" width="359" height="269"></figure>Der Hintergrund ist genau wie bei unserem ersten Bild oben schwarz. Allerdings wurde hier der Effekt nachträglich in Lightroom verstärkt.</p>
+<figure class="post__image--left"><img loading="lazy"  src="https://crichardt.com/media/posts/21/IMGP1435.jpg" alt="Yellow Flower" width="359" height="269" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://crichardt.com/media/posts/21/responsive/IMGP1435-xs.jpg 300w ,https://crichardt.com/media/posts/21/responsive/IMGP1435-sm.jpg 480w ,https://crichardt.com/media/posts/21/responsive/IMGP1435-md.jpg 749w ,https://crichardt.com/media/posts/21/responsive/IMGP1435-xl.jpg 1200w"></figure>Der Hintergrund ist genau wie bei unserem ersten Bild oben schwarz. Allerdings wurde hier der Effekt nachträglich in Lightroom verstärkt.</p>
 <p>Solche Bilder kann man beispielsweise wunderbar als Dreierpack an die Wand hängen. Oder man kann sie natürlich für Instagram nutzen.</p>
-<figure class="post__image--right"><img loading="lazy"  src="https://crichardt.com/media/posts/21/IMGP1439.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://crichardt.com/media/posts/21/responsive/IMGP1439-xs.jpg 300w ,https://crichardt.com/media/posts/21/responsive/IMGP1439-sm.jpg 480w ,https://crichardt.com/media/posts/21/responsive/IMGP1439-md.jpg 749w ,https://crichardt.com/media/posts/21/responsive/IMGP1439-xl.jpg 1200w"  alt="Red Flower" width="359" height="269"></figure>
+<figure class="post__image--right"><img loading="lazy"  src="https://crichardt.com/media/posts/21/IMGP1439.jpg" alt="Red Flower" width="359" height="269" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://crichardt.com/media/posts/21/responsive/IMGP1439-xs.jpg 300w ,https://crichardt.com/media/posts/21/responsive/IMGP1439-sm.jpg 480w ,https://crichardt.com/media/posts/21/responsive/IMGP1439-md.jpg 749w ,https://crichardt.com/media/posts/21/responsive/IMGP1439-xl.jpg 1200w"></figure>
 <p> </p>
 <p>Stöbert also einfach mal in euren alten Bildern, mit hoher Wahrscheinlichkeit findet ihr Dinge, die euch Inspiration liefern. </p>
 <p>  </p>
-<figure class="post__image--left"><img loading="lazy"  src="https://crichardt.com/media/posts/21/IMGP1445.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://crichardt.com/media/posts/21/responsive/IMGP1445-xs.jpg 300w ,https://crichardt.com/media/posts/21/responsive/IMGP1445-sm.jpg 480w ,https://crichardt.com/media/posts/21/responsive/IMGP1445-md.jpg 749w ,https://crichardt.com/media/posts/21/responsive/IMGP1445-xl.jpg 1200w"  alt="Purple Flower" width="6549" height="4912"></figure>
+<figure class="post__image--left"><img loading="lazy"  src="https://crichardt.com/media/posts/21/IMGP1445.jpg" alt="Purple Flower" width="6549" height="4912" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://crichardt.com/media/posts/21/responsive/IMGP1445-xs.jpg 300w ,https://crichardt.com/media/posts/21/responsive/IMGP1445-sm.jpg 480w ,https://crichardt.com/media/posts/21/responsive/IMGP1445-md.jpg 749w ,https://crichardt.com/media/posts/21/responsive/IMGP1445-xl.jpg 1200w"></figure>
 <p> </p>
 <p>Schreibt mir gerne auch in die Kommentare, ob Ihr mit dieser Methode Ideen gefunden habt. Viel Spaß beim ausprobieren dieser Methode!</p>
 <p> </p>
@@ -295,6 +336,7 @@
         </author>
         <link href="https://crichardt.com/klimakompensation-der-moderne-ablassbrief/"/>
         <id>https://crichardt.com/klimakompensation-der-moderne-ablassbrief/</id>
+        <media:content url="https://crichardt.com/media/posts/22/IMGP5024.jpg" medium="image" />
             <category term="Ethical Business"/>
 
         <updated>2020-02-25T18:41:45+01:00</updated>
@@ -306,7 +348,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://crichardt.com/media/posts/22/IMGP5024.jpg" alt="Calgary, Road to Downtown" />
+                    <p><img src="https://crichardt.com/media/posts/22/IMGP5024.jpg" class="type:primaryImage" alt="Calgary, Road to Downtown" /></p>
                 <p class="dropcap">Aktuell verspricht Volkswagen als einer der ersten Autohersteller mit dem ID.3 ein "bilanziell" CO2 neutrales Fahrzeug, solange mit Ökostrom getankt wird. Auch soll bei der Produktion des Fahrzeugs und der Akkuzellen Ökostrom verwendet werden. Doch da auch VW nicht verhindern kann, dass bei der Produktion und Verarbeitung von Stahl und anderen Materialien CO2 Emissionen anfallen, kann das nicht so ganz stimmen. Wie also löst VW dieses Problem?</p>
 <blockquote>
 <p>Sind doch einmal entlang der Lieferkette CO2-Emissionen unvermeidlich, dann werden diese durch Investitionen in Klimaschutzprojekte kompensiert.</p>
@@ -331,46 +373,6 @@
 <h2>Fazit</h2>
 <p>Für Unternehmen und Privatpersonen gilt nach wie vor, dass eine nicht produzierte CO2 Emission die beste ist. Doch natürlich können nicht alle Emissionen verhindert werden. Daher ist es definitiv gut, wenn wir Emissionen kompensieren, anstatt gar nichts zu unternehmen. Gleichzeitig steigert die CO2 Kompensation auch das Bewusstsein im Unternehmen für die Problematik. Solange die CO2 Kompensation also nicht als einziges Instrument zur Verringerung der Emissionen genutzt wird, ist sie definitiv zu empfehlen. Durch die weitere Reduzierung von Emissionen wird anschließend auch die Kompensation mit der Zeit geringer.</p>
 <p> </p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Klimaschutz ist nur für Schwachköpfe von Greenpeace! - Oder?</title>
-        <author>
-            <name>Clemens Richardt</name>
-        </author>
-        <link href="https://crichardt.com/klimaschutz-fur-schwachkopfe-oder/"/>
-        <id>https://crichardt.com/klimaschutz-fur-schwachkopfe-oder/</id>
-            <category term="Ethical Business"/>
-            <category term="Basics"/>
-
-        <updated>2019-10-25T02:54:47+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://crichardt.com/media/posts/24/IMGP1173.jpg" alt="Corn field" />
-                    Das Thema Klimaschutz bewegt aktuell in Zeiten von Fridays for Future mehr denn jemals zuvor. Je mehr ein Thema die Gesellschaft bewegt, desto wichtiger ist es, einen nüchternen und klaren Blick auf das Thema zu unterstützen. Und genau das ist der Sinn dieses Artikels. Ich möchte dir einen anderen Blick&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://crichardt.com/media/posts/24/IMGP1173.jpg" alt="Corn field" />
-                <p class="dropcap">Das Thema Klimaschutz bewegt aktuell in Zeiten von Fridays for Future mehr denn jemals zuvor. Je mehr ein Thema die Gesellschaft bewegt, desto wichtiger ist es, einen nüchternen und klaren Blick auf das Thema zu unterstützen. Und genau das ist der Sinn dieses Artikels. Ich möchte dir einen anderen Blick auf die Thematik bieten, der möglichst viel auf wissenschaftlichen Fakten basiert. </p>
-<p>Noch vorweg: Die Umwelt- und Klimathematik ist äußerst komplex und es spielen viele Faktoren ineinander. In diesem Artikel werde ich vorerst nur auf den Ursprung der Debatte eingehen: Ist der Klimawandel, der mit den Temeraturmessungen der letzten 100 Jahre belegbar ist, menschlich verursacht?</p>
-<h3>Natürlich oder menschlich verursacht?</h3>
-<p>Fangen wir ganz vorne an. Klimawandel ist generell ein natürlicher Prozess. Dies lässt sich mit Hilfe von Rekonstruktionen der letzten 1000 Jahre gut zeigen. Der Knackpunkt ist jedoch, dass seit dem 20. Jahrhundert ein Anstieg der Temperatur erkennbar ist, der nicht auf natürliche Ursachen zurückführbar ist, somit seine Ursache in menschlichen Faktoren hat. <a href="https://wiki.bildungsserver.de/klimawandel/index.php/Klima_der_letzten_1000_Jahre" target="_blank" rel="noopener noreferrer">Genauere Nachweise, warum dieser Anstieg auf uns Menschen zurückzuführen ist, findest du hier!</a> Auch ein entscheidender Faktor ist die Geschwindigkeit, mit der dieser Prozess stattfindet. So hat die Erde in Ihrer 4,55 Milliarden Jahre währenden Geschichte zwar schon viele Temperaturschwankungen erlebt. Doch entgegen der aktuellen Entwicklung spielten sich diese über deutlich längere Zeiträume ab. Für diesen Temperaturanstieg sind vor allem Treibhausgase verantwortlich: Sie fangen Wärmestrahlung ab, die von der Erde reflektiert wird, und hindern diese daran, in den Weltraum zu entweichen. </p>
-<p>Der bekannteste und mengenmäßig am meisten vorkommende Faktor ist Kohendioxid, CO2. Es gibt allerdings noch weitere Treibhausgase deren Wirkung auf das Klima noch deutlich stärker ist. Die gesamten Emissionen werden daher oft auf den Wert als CO2 heruntergerechnet, die sogenannten CO2-Äquivalente. Auch die Verweildauer in der Atmosphäre ist entscheidend. Daher hier ein kleiner Auszug der wichtigsten "Treibhausgase":</p>
-<p>Kohlenstoffdioxid (CO2) hat eine Verweildauer in der Atmosphäre von 120 Jahren. Der Anteil am menschlich verursachten Klimawandel liegt bei ca. 60%.</p>
-<p>Methan (CH4) ist <strong>25x</strong> stärker als CO2. Durch eine kürzere Verweildauer in der Atmosphäre von 9-15 Jahren und eine geringere Erzeugung liegt der Anteil am menschlich verursachten Klimawandel "nur" bei ca. 20%.</p>
-<p>Distickstoffmonoxid (N2O) auch Lachgas genannt, ist <strong>298x</strong> stärker als CO2. Dazu kommt eine Verweildauer von 114 Jahren. Da Lachgas hauptsächlich in der Landwirtschaft entsteht und sonst nur relativ geringe Mengen durch die Industrie entstehen, liegt der Anteil am menschengemachten Klimawandel bei ca. 5-6%.</p>
-<p>Fluorkohlenwasserstoffe ( diverse Stoffe mit Fluor in der Verbindung) oft als FCKW bekannt. Sie können eine bis zu <strong>14800x</strong> höhrere Wirkung als CO2 auf das Klima haben. Sie tragen zu ca. 10% des menschlich verursachten Klimawandels bei. Gute Nachricht: Der Anteil an FCKWs in der Atmosphöre ist aktuell abnehmend.</p>
-<p>Es gibt noch einige andere Verbindungen, die zu den Treibhausgasen zählen, jedoch nicht in größeren Mengen vorkommen.</p>
-<figure class="post__image post__image--right" ><img loading="lazy" src="https://crichardt.com/media/posts/24/Treibhausgase2005.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://crichardt.com/media/posts/24/responsive/Treibhausgase2005-xs.jpg 300w ,https://crichardt.com/media/posts/24/responsive/Treibhausgase2005-sm.jpg 480w ,https://crichardt.com/media/posts/24/responsive/Treibhausgase2005-md.jpg 749w ,https://crichardt.com/media/posts/24/responsive/Treibhausgase2005-xl.jpg 1200w"  alt="Konzentration von Treibhausgasen 0-2005" width="546" height="420">
-<figcaption >Quelle: http://www.hamburger-bildungsserver.de/index.phtml?site=themen.klima.treibhausgase</figcaption>
-</figure>
-<p>Weiterführende Informationen findest du auch in dem Wikipediaartikel zum Thema "<a href="https://de.wikipedia.org/wiki/Treibhausgas#cite_note-IPCC_(2007)-16" target="_blank" rel="noopener noreferrer">Treibhausgas</a>". Sollte dir ein Artikel auf Wikipedia nicht reichen: Am allen relevanten Stellen sind die dahinterstehenden Quellen gekennzeichnet, etwa so: [<a href="https://www.nature.com/articles/s41598-018-38207-w">23</a>]<br>Einfach draufklicken, und du kommst zur passenden Quelle der Information.<br>Eine Empfehlung ist hier zudem auch die <a href="https://wiki.bildungsserver.de/klimawandel/index.php/Treibhausgase" target="_blank" rel="noopener noreferrer">Seite des Climate Service Center Germany.</a></p>
-<p> </p>
-<p>In zukünftigen Artikeln werde ich darauf eingehen, welche Faktoren noch indirekt dazu beitragen, dass der menschlich verursachte Klimawandel so stark ausfällt, bzw. warum die Treibhausgasemissionen so hoch sind, wie sie sind.</p>
 <p> </p>
             ]]>
         </content>
